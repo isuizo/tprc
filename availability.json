@@ -1,0 +1,978 @@
+{
+    "admin0": {
+        "PH": {
+            "status": "launched"
+        },
+        "BR": {
+            "status": "launched"
+        },
+        "HU": {
+            "status": "launched"
+        },
+        "SG": {
+            "status": "faq"
+        },
+        "VI": {
+            "status": "launched"
+        },
+        "EC": {
+            "status": "launched"
+        },
+        "GR": {
+            "status": "launched"
+        },
+        "US": {
+            "status": "launched"
+        },
+        "MT": {
+            "status": "launched"
+        },
+        "JP": {
+            "status": "launched"
+        },
+        "MN": {
+            "status": "launched"
+        },
+        "MZ": {
+            "status": "launched"
+        },
+        "PT": {
+            "status": "launched"
+        },
+        "GG": {
+            "status": "launched"
+        },
+        "AL": {
+            "status": "launched"
+        },
+        "CZ": {
+            "status": "launched"
+        },
+        "MP": {
+            "status": "launched"
+        },
+        "SZ": {
+            "status": "launched"
+        },
+        "MD": {
+            "status": "launched"
+        },
+        "SJ": {
+            "status": "launched"
+        },
+        "MY": {
+            "status": "launched"
+        },
+        "MK": {
+            "status": "launched"
+        },
+        "JM": {
+            "status": "launched"
+        },
+        "AU": {
+            "status": "launched"
+        },
+        "AT": {
+            "status": "launched"
+        },
+        "IM": {
+            "status": "launched"
+        },
+        "NF": {
+            "status": "launched"
+        },
+        "MX": {
+            "status": "launched"
+        },
+        "SK": {
+            "status": "launched"
+        },
+        "RE": {
+            "status": "launched"
+        },
+        "BB": {
+            "status": "launched"
+        },
+        "BE": {
+            "status": "launched"
+        },
+        "SI": {
+            "status": "launched"
+        },
+        "CR": {
+            "status": "launched"
+        },
+        "IT": {
+            "status": "launched"
+        },
+        "ES": {
+            "status": "launched"
+        },
+        "BS": {
+            "status": "launched"
+        },
+        "MF": {
+            "status": "launched"
+        },
+        "NO": {
+            "status": "launched"
+        },
+        "NG": {
+            "status": "launched"
+        },
+        "MW": {
+            "status": "launched"
+        },
+        "KE": {
+            "status": "launched"
+        },
+        "LU": {
+            "status": "launched"
+        },
+        "UY": {
+            "status": "launched"
+        },
+        "PR": {
+            "status": "launched"
+        },
+        "ZM": {
+            "status": "launched"
+        },
+        "AR": {
+            "status": "launched"
+        },
+        "SV": {
+            "status": "launched"
+        },
+        "HM": {
+            "status": "launched"
+        },
+        "IE": {
+            "status": "launched"
+        },
+        "CX": {
+            "status": "launched"
+        },
+        "NL": {
+            "status": "launched"
+        },
+        "HN": {
+            "status": "launched"
+        },
+        "GP": {
+            "status": "launched"
+        },
+        "PN": {
+            "status": "faq"
+        },
+        "GB": {
+            "status": "launched"
+        },
+        "PY": {
+            "status": "launched"
+        },
+        "CA": {
+            "status": "launched"
+        },
+        "GT": {
+            "status": "launched"
+        },
+        "DE": {
+            "status": "launched"
+        },
+        "BG": {
+            "status": "launched"
+        },
+        "CC": {
+            "status": "launched"
+        },
+        "LT": {
+            "status": "launched"
+        },
+        "DO": {
+            "status": "launched"
+        },
+        "PE": {
+            "status": "launched"
+        },
+        "JE": {
+            "status": "launched"
+        },
+        "CO": {
+            "status": "launched"
+        },
+        "RW": {
+            "status": "launched"
+        },
+        "FM": {
+            "status": "launched"
+        },
+        "LV": {
+            "status": "launched"
+        },
+        "MQ": {
+            "status": "launched"
+        },
+        "PA": {
+            "status": "launched"
+        },
+        "DK": {
+            "status": "launched"
+        },
+        "GF": {
+            "status": "launched"
+        },
+        "EE": {
+            "status": "launched"
+        },
+        "BL": {
+            "status": "launched"
+        },
+        "AS": {
+            "status": "launched"
+        },
+        "CH": {
+            "status": "launched"
+        },
+        "BQ": {
+            "status": "launched"
+        },
+        "CL": {
+            "status": "launched"
+        },
+        "RO": {
+            "status": "launched"
+        },
+        "NZ": {
+            "status": "launched"
+        },
+        "TT": {
+            "status": "launched"
+        },
+        "YT": {
+            "status": "launched"
+        },
+        "GU": {
+            "status": "launched"
+        },
+        "IS": {
+            "status": "launched"
+        },
+        "PL": {
+            "status": "launched"
+        },
+        "HR": {
+            "status": "launched"
+        },
+        "MV": {
+            "status": "launched"
+        },
+        "FI": {
+            "status": "launched"
+        },
+        "SE": {
+            "status": "launched"
+        },
+        "FR": {
+            "status": "launched"
+        },
+        "BJ": {
+            "status": "available"
+        },
+        "HT": {
+            "status": "available"
+        },
+        "AQ": {
+            "status": "faq"
+        },
+        "BV": {
+            "status": "faq"
+        },
+        "IN": {
+            "status": "pending_regulatory"
+        },
+        "PK": {
+            "status": "pending_regulatory"
+        },
+        "TH": {
+            "status": "pending_regulatory"
+        },
+        "XS": {
+            "status": "unknown"
+        },
+        "HK": {
+            "status": "blacklisted"
+        },
+        "VE": {
+            "status": "blacklisted"
+        },
+        "CU": {
+            "status": "blacklisted"
+        },
+        "MO": {
+            "status": "blacklisted"
+        },
+        "CN": {
+            "status": "blacklisted"
+        },
+        "RU": {
+            "status": "blacklisted"
+        },
+        "BY": {
+            "status": "blacklisted"
+        },
+        "KP": {
+            "status": "blacklisted"
+        },
+        "IR": {
+            "status": "blacklisted"
+        },
+        "AF": {
+            "status": "blacklisted"
+        },
+        "SY": {
+            "status": "blacklisted"
+        },
+        "UA": {
+            "status": "exclude"
+        },
+        "CY": {
+            "status": "exclude"
+        },
+        "GE": {
+            "status": "exclude"
+        },
+        "AX": {
+            "status": "unknown"
+        },
+        "BH": {
+            "status": "unknown"
+        },
+        "DM": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "GD": {
+            "status": "unknown"
+        },
+        "IQ": {
+            "status": "unknown"
+        },
+        "KM": {
+            "status": "unknown"
+        },
+        "TL": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "ML": {
+            "status": "unknown"
+        },
+        "SD": {
+            "status": "unknown"
+        },
+        "ME": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "KI": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "FJ": {
+            "status": "unknown"
+        },
+        "CW": {
+            "status": "unknown"
+        },
+        "GY": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "BO": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "XK": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "KN": {
+            "status": "unknown"
+        },
+        "LC": {
+            "status": "unknown"
+        },
+        "PG": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "GA": {
+            "status": "unknown"
+        },
+        "SM": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "TM": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "XJ": {
+            "status": "unknown"
+        },
+        "MG": {
+            "status": "coming_soon",
+            "expected": "Starting Q3 2024"
+        },
+        "AW": {
+            "status": "unknown"
+        },
+        "SN": {
+            "status": "coming_soon",
+            "expected": "Starting Q2 2024"
+        },
+        "GW": {
+            "status": "unknown"
+        },
+        "VA": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "NP": {
+            "status": "unknown"
+        },
+        "LK": {
+            "status": "unknown"
+        },
+        "TV": {
+            "status": "unknown"
+        },
+        "NE": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "TZ": {
+            "status": "coming_soon",
+            "expected": "Starting Q2 2024"
+        },
+        "TG": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "CG": {
+            "status": "unknown"
+        },
+        "VC": {
+            "status": "unknown"
+        },
+        "BW": {
+            "status": "coming_soon",
+            "expected": "Starting Q3 2024"
+        },
+        "NC": {
+            "status": "unknown"
+        },
+        "LS": {
+            "status": "unknown"
+        },
+        "PS": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "WF": {
+            "status": "unknown"
+        },
+        "UZ": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "SH": {
+            "status": "unknown"
+        },
+        "TJ": {
+            "status": "unknown"
+        },
+        "PM": {
+            "status": "unknown"
+        },
+        "BM": {
+            "status": "unknown"
+        },
+        "LB": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "ID": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "AD": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "BI": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "FK": {
+            "status": "unknown"
+        },
+        "SB": {
+            "status": "unknown"
+        },
+        "DJ": {
+            "status": "unknown"
+        },
+        "ET": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "VU": {
+            "status": "unknown"
+        },
+        "KY": {
+            "status": "unknown"
+        },
+        "KW": {
+            "status": "unknown"
+        },
+        "WS": {
+            "status": "unknown"
+        },
+        "AE": {
+            "status": "unknown"
+        },
+        "TF": {
+            "status": "unknown"
+        },
+        "JO": {
+            "status": "coming_soon",
+            "expected": "Starting Q3 2024"
+        },
+        "FO": {
+            "status": "unknown"
+        },
+        "SC": {
+            "status": "unknown"
+        },
+        "TC": {
+            "status": "unknown"
+        },
+        "ZW": {
+            "status": "coming_soon",
+            "expected": "Starting Q3 2024"
+        },
+        "RS": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "UM": {
+            "status": "unknown"
+        },
+        "KZ": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "TD": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "AG": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "PF": {
+            "status": "unknown"
+        },
+        "PW": {
+            "status": "unknown"
+        },
+        "XO": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "CV": {
+            "status": "unknown"
+        },
+        "MM": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "SX": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "EH": {
+            "status": "unknown"
+        },
+        "AM": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "AO": {
+            "status": "coming_soon",
+            "expected": "Starting Q3 2024"
+        },
+        "SA": {
+            "status": "unknown"
+        },
+        "TK": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "ER": {
+            "status": "unknown"
+        },
+        "AZ": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "GM": {
+            "status": "coming_soon",
+            "expected": "Starting Q2 2024"
+        },
+        "IO": {
+            "status": "unknown"
+        },
+        "UG": {
+            "status": "coming_soon",
+            "expected": "Starting Q4 2024"
+        },
+        "CM": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "MC": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "TR": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "GN": {
+            "status": "unknown"
+        },
+        "SR": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "ST": {
+            "status": "unknown"
+        },
+        "TO": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "XC": {
+            "status": "unknown"
+        },
+        "BT": {
+            "status": "unknown"
+        },
+        "XA": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "VN": {
+            "status": "coming_soon",
+            "expected": "Pending regulatory approval"
+        },
+        "IL": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "BN": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "TW": {
+            "status": "unknown"
+        },
+        "BD": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "MU": {
+            "status": "unknown"
+        },
+        "KH": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "LI": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "CI": {
+            "status": "unknown"
+        },
+        "GQ": {
+            "status": "unknown"
+        },
+        "TN": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "CF": {
+            "status": "unknown"
+        },
+        "CK": {
+            "status": "unknown"
+        },
+        "NU": {
+            "status": "unknown"
+        },
+        "LA": {
+            "status": "unknown"
+        },
+        "DZ": {
+            "status": "unknown"
+        },
+        "GS": {
+            "status": "unknown"
+        },
+        "QA": {
+            "status": "coming_soon",
+            "expected": "Starting Q2 2024"
+        },
+        "NI": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "VG": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "BF": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "GH": {
+            "status": "unknown"
+        },
+        "GL": {
+            "status": "unknown"
+        },
+        "LR": {
+            "status": "unknown"
+        },
+        "MR": {
+            "status": "coming_soon",
+            "expected": "Starting Q4 2024"
+        },
+        "SL": {
+            "status": "unknown"
+        },
+        "BZ": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "AI": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "YE": {
+            "status": "unknown"
+        },
+        "OM": {
+            "status": "coming_soon",
+            "expected": "Starting Q2 2024"
+        },
+        "KG": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "SS": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "CD": {
+            "status": "coming_soon",
+            "expected": "Starting in 2025"
+        },
+        "ZA": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "MA": {
+            "status": "unknown"
+        },
+        "NR": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "NA": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "SO": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "KR": {
+            "status": "unknown"
+        },
+        "GI": {
+            "status": "coming_soon",
+            "expected": "Starting in 2024"
+        },
+        "EG": {
+            "status": "unknown"
+        },
+        "BA": {
+            "status": "coming_soon",
+            "expected": "Service date is unknown at this time"
+        },
+        "MH": {
+            "status": "unknown"
+        },
+        "MS": {
+            "status": "unknown"
+        },
+        "LY": {
+            "status": "unknown"
+        }
+    },
+    "admin1": {
+        "dXJuOm1ieGJuZDpBUkkzOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpCaEkzOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpCUkkzOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpCQkkzOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpBaEkzOnY0": {
+            "status": "unknown"
+        },
+        "dXJuOm1ieGJuZDpBeEkzOnY0": {
+            "status": "unknown"
+        },
+        "dXJuOm1ieGJuZDpDaEpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpBeEpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpCeEpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpEQkpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpCQkpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpCUkpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpCaEpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpDUkpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpDQkpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpDeEpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpBUkpQOnY0": {
+            "status": "launched"
+        },
+        "dXJuOm1ieGJuZDpBaEpQOnY0": {
+            "status": "pending_regulatory"
+        },
+        "dXJuOm1ieGJuZDpDQkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpHUkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpCQkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpGaExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpHaExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpDUkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpGQkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpBeExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpFaExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpGeExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpEeExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpCaExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpCeExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpFeExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpEUkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpCUkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpFUkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpHQkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpEaExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpBaExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpDeExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpEQkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpGUkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpDaExtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpFQkxtOnY0": {
+            "status": "faq"
+        },
+        "dXJuOm1ieGJuZDpBUkxtOnY0": {
+            "status": "blacklisted"
+        },
+        "dXJuOm1ieGJuZDpEUkpQOnY0": {
+            "status": "pending_regulatory"
+        },
+        "dXJuOm1ieGJuZDpHeExtOnY0": {
+            "status": "blacklisted"
+        }
+    }
+}
