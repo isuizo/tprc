@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1It7M_jijPuCWUs5EjZjkZoMLcKoT2hY7
 
 (Data is hosted on **Google Drive**.)
 
-Once downloaded, place the CSV files in the /tprc directory as expected by the notebook.
+Once downloaded, place the CSV files in the /tprc2025 directory as expected by the notebook.
 
 ---
 
@@ -42,7 +42,7 @@ The primary analysis notebook is in tprc.ipynb:
 To run the notebook successfully:
 
 1. Download the required CSV files from the data link above
-2. Ensure the files are placed in the /tprc directory
+2. Ensure the files are placed in the /tprc2025 directory
 3. Open and run `tprc.ipynb` in Jupyter
 
 Without the data files, the notebook will load but **will not execute fully**.
