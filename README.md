@@ -53,7 +53,7 @@ Without the data files, the notebook will load but **will not execute fully**.
 
 - This repository contains **analysis code only**
 - Large datasets are excluded via `.gitignore`
-- Generated outputs (e.g., figures) are located in the /tprc/results folder
+- Generated outputs (e.g., figures) are located in the /tprc2025/results folder
 - Note, since the county+zipcode level analysis rely on the Nominatim API, numbers may vary slightly between runs
 
 ---
